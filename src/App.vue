@@ -1,5 +1,7 @@
-<script setup></script>
+<script setup>
+import Navbar from "./Components/Navbar.vue";
+</script>
 
 <template>
-  <div class="h-screen w-screen bg-neutral-900"></div>
+    <Navbar />
 </template>
