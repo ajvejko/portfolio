@@ -5,7 +5,7 @@ const opened = ref(false);
 <template>
   <nav>
     <!-- Desktop -->
-    <div class="hidden w-full justify-evenly md:flex">
+    <div class="hidden w-full justify-between px-64 pt-1 md:flex">
       <!-- Logo -->
       <div class="p-3 font-sarabun">
         <a href="#" class="flex items-center">
