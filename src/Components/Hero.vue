@@ -1,8 +1,8 @@
 <script setup></script>
 
 <template>
-  <section class="h-full">
-    <div class="mt-52 px-6">
+  <section class="h-screen">
+    <div class="pt-52 px-6">
       <!-- Greeting -->
       <div class="font-thin text-slate-100">Hi, my name is</div>
       <span
