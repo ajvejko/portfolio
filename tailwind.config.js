@@ -4,7 +4,10 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sarabun: "'Sarabun', serif",
+        roboto: "'Roboto Mono', monospace",
+      },
+      colors: {
+        bgCustom: "#141314",
       },
     },
   },
