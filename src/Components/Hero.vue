@@ -1,8 +1,8 @@
 <script setup></script>
 
 <template>
-  <section class="h-screen">
-    <div class="pt-52 px-6">
+  <section class="h-screen" id="home">
+    <div class="px-6 pt-52">
       <!-- Greeting -->
       <div class="font-thin text-slate-100">Hi, my name is</div>
       <span
@@ -21,7 +21,7 @@
       </div>
       <!-- Current interest in tech -->
       <div class="text-center">
-        <h1 class="mt-16 font-thin text-slate-100">
+        <h1 class="mt-32 font-thin text-slate-100">
           my current interest in tech:
         </h1>
         <div class="mt-5 flex justify-evenly">
@@ -35,13 +35,14 @@
           <img src="../assets/vite.svg" alt="vite" class="mr-3 w-12" />
         </div>
       </div>
+
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
         viewBox="0 0 24 24"
         stroke-width="1.5"
         stroke="currentColor"
-        class="absolute bottom-0 left-1/2 right-1/2 h-6 w-6 animate-bounce stroke-neutral-100/70"
+        class="absolute bottom-0 left-1/2 right-1/2 -z-10 h-6 w-6 animate-bounce stroke-neutral-100/70"
       >
         <path
           stroke-linecap="round"

@@ -4,3 +4,7 @@
 * {
   font-family: "Roboto Mono", monospace;
 }
+
+html{
+  scroll-behavior: smooth;
+}

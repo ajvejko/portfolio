@@ -9,7 +9,7 @@ const show = ref(false);
       <div
         class="flex justify-between bg-bgCustom px-6 py-3 shadow-xl shadow-bgCustom"
       >
-        <a href="#" class="text-xl font-bold text-slate-100">matt</a>
+        <a href="#home" class="text-xl font-bold text-slate-100">matt</a>
         <!-- Navigation menu button -->
         <button @click="show = !show" class="text-xl text-slate-100">
           menu.
@@ -17,10 +17,28 @@ const show = ref(false);
       </div>
       <!-- Navigation options -->
       <Transition name="fade">
-        <div v-if="show" class="flex flex-col bg-bgCustom/90 px-6 text-right">
-          <a href="#" class="text-l mx-3 mt-1 text-neutral-300">1. projects</a>
-          <a href="#" class="text-l mx-3 mt-1 text-neutral-300">2. about</a>
-          <a href="#" class="text-l mx-3 mt-1 text-neutral-300">3. contact</a>
+        <div
+          v-if="show"
+          class="flex flex-col bg-bgCustom/90 px-6 pb-3 text-right"
+        >
+          <a
+            @click="show = !show"
+            href="#about"
+            class="text-l mx-3 mt-1 text-neutral-300"
+            >1. about</a
+          >
+          <a
+            @click="show = !show"
+            href="#projects"
+            class="text-l mx-3 mt-1 text-neutral-300"
+            >2. projects</a
+          >
+          <a
+            @click="show = !show"
+            href="#contact"
+            class="text-l mx-3 mt-1 text-neutral-300"
+            >3. contact</a
+          >
         </div>
       </Transition>
     </div>
