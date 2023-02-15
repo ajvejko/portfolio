@@ -47,7 +47,7 @@
         <div></div>
       </div>
       <div class="flex justify-center">
-        <div class="absolute bottom-0 -z-10">
+        <div class="absolute bottom-0">
           <div class="mb-3 text-sm font-thin text-stone-300">
             checkout my projects!
           </div>

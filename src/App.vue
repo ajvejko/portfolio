@@ -2,10 +2,12 @@
 import Navbar from "./Components/Navbar.vue";
 import Hero from "./Components/Hero.vue";
 import About from "./Components/About.vue";
+import Projects from "./Components/Projects.vue";
 </script>
 
 <template>
   <Navbar />
   <Hero />
   <About />
+  <Projects />
 </template>

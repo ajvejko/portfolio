@@ -5,7 +5,7 @@ const show = ref(false);
 <template>
   <nav>
     <!-- Something like a logo -->
-    <div class="fixed top-0 left-0 right-0">
+    <div class="fixed top-0 left-0 right-0 z-10">
       <div
         class="flex justify-between bg-bgCustom px-6 py-3 shadow-xl shadow-bgCustom"
       >
