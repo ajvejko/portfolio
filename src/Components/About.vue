@@ -18,8 +18,8 @@
           I started with a gimmick portfolio to learn basic of HTML&CSS and
           later moved to <span class="text-yellow-200">Javascript</span>. <br />
           Then I dipped my toes in <span class="text-sky-500">React</span> and
-          today I work with with <span class="text-emerald-400">Vue</span>. For
-          the styling I
+          today I work with <span class="text-emerald-400">Vue</span>. For the
+          styling I
           <span class="font-bold italic text-slate-200">absolutely</span> fell
           in love with <span class="text-blue-500">Tailwind</span>!<br />
           <br />
