@@ -9,10 +9,10 @@
       <div class="mt-16 divide-y xl:mx-auto xl:w-3/4">
         <div class="relative p-3">
           <div
-            class="absolute top-0 left-0 h-6 w-6 rounded-br-full bg-purple-500/30 blur md:h-8 md:w-8 xl:h-10 xl:w-10"
+            class="absolute top-0 left-0 h-6 w-6 rounded-br-full bg-purple-500/30 blur md:h-8 md:w-8 xl:h-10 xl:w-10 2xl:w-12"
           ></div>
           <div
-            class="absolute bottom-0 right-0 h-6 w-6 rounded-tl-full bg-pink-400/30 blur md:h-8 md:w-8 xl:h-10 xl:w-10"
+            class="absolute bottom-0 right-0 h-6 w-6 rounded-tl-full bg-pink-400/30 blur md:h-8 md:w-8 xl:h-10 xl:w-10 2xl:w-12"
           ></div>
           <h2
             class="bg-gradient-to-r from-purple-500 to-pink-400 bg-clip-text text-xl font-bold text-transparent md:text-2xl xl:text-3xl"
