@@ -9,9 +9,14 @@ const show = ref(false);
       <div
         class="flex justify-between bg-bgCustom px-6 py-3 shadow-xl shadow-bgCustom"
       >
-        <a href="#home" class="text-xl font-bold text-slate-100">matt</a>
+        <a href="#home" class="text-xl font-bold text-slate-100 md:text-2xl"
+          >matt</a
+        >
         <!-- Navigation menu button -->
-        <button @click="show = !show" class="text-xl text-slate-100">
+        <button
+          @click="show = !show"
+          class="text-xl text-slate-100 md:text-2xl"
+        >
           menu.
         </button>
       </div>
@@ -24,19 +29,19 @@ const show = ref(false);
           <a
             @click="show = !show"
             href="#about"
-            class="text-l mx-3 mt-1 text-neutral-300"
+            class="mx-3 mt-1 text-neutral-300 md:text-lg"
             >1. about</a
           >
           <a
             @click="show = !show"
             href="#projects"
-            class="text-l mx-3 mt-1 text-neutral-300"
+            class="mx-3 mt-1 text-neutral-300 md:text-lg"
             >2. projects</a
           >
           <a
             @click="show = !show"
             href="#contact"
-            class="text-l mx-3 mt-1 text-neutral-300"
+            class="mx-3 mt-1 text-neutral-300 md:text-lg"
             >3. contact</a
           >
         </div>

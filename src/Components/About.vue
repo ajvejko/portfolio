@@ -2,15 +2,15 @@
 
 <template>
   <section class="relative h-screen px-6 pt-16" id="about">
-    <div class="flex flex-col">
-      <h1 class="text-center text-xl font-semibold text-slate-100">
-        <span class="text-base font-normal">1.</span> about
+    <div class="flex flex-col md:m-auto md:w-3/4">
+      <h1 class="text-center text-xl font-semibold text-slate-100 md:text-2xl">
+        <span class="text-base font-normal md:text-lg">1.</span> about
       </h1>
       <div class="divide-y">
-        <p class="mt-10 text-sm text-stone-300">
+        <p class="mt-10 text-sm text-stone-300 md:text-base">
           Hello, my name is
           <span
-            class="bg-gradient-to-r from-teal-600 to-green-800 bg-clip-text text-base font-bold text-transparent"
+            class="bg-gradient-to-r from-teal-600 to-green-800 bg-clip-text text-base font-bold text-transparent md:text-lg"
             >Matej</span
           >. I enjoy creating things on the web. My love for web development
           started in late 2022.<br />
@@ -30,25 +30,31 @@
         </p>
 
         <div class="mt-24 mb-3 pt-3">
-          <h2 class="text-sm font-thin text-slate-100">What's next?</h2>
+          <h2 class="text-sm font-thin text-slate-100 md:text-base">
+            What's next?
+          </h2>
           <ol class="mt-2">
-            <li class="text-slate-100">
-              <span class="mr-2 text-sm font-thin">1.</span>Typescript
+            <li class="text-slate-100 md:text-lg">
+              <span class="mr-2 text-sm font-thin md:text-base">1.</span
+              >Typescript
             </li>
-            <li class="text-slate-100">
-              <span class="mr-2 text-sm font-thin">2.</span>Working with APIs
+            <li class="text-slate-100 md:text-lg">
+              <span class="mr-2 text-sm font-thin md:text-base">2.</span>Working
+              with APIs
             </li>
-            <li class="text-slate-100">
-              <span class="mr-2 text-sm font-thin">3.</span>NuxtJS
+            <li class="text-slate-100 md:text-lg">
+              <span class="mr-2 text-sm font-thin md:text-base">3.</span>NuxtJS
             </li>
-            <li class="mr-2 text-sm font-thin text-slate-100">and more..</li>
+            <li class="mr-2 text-sm font-thin text-slate-100 md:text-base">
+              and more..
+            </li>
           </ol>
         </div>
         <div></div>
       </div>
       <div class="flex justify-center">
         <div class="absolute bottom-0">
-          <div class="mb-3 text-sm font-thin text-stone-300">
+          <div class="mb-3 text-sm font-thin text-stone-300 md:text-base">
             checkout my projects!
           </div>
           <svg
@@ -57,7 +63,7 @@
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="mx-auto h-6 w-6 animate-bounce stroke-neutral-100/70"
+            class="mx-auto h-6 w-6 animate-bounce stroke-neutral-100/70 md:h-8 md:w-8"
           >
             <path
               stroke-linecap="round"
