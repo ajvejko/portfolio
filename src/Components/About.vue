@@ -27,7 +27,7 @@
           in love with <span class="text-blue-500">Tailwind</span>!<br />
           <br />
           I have successfully graduated High School and
-          <a href="contact" class="font-bold text-slate-200 hover:underline"
+          <a href="#contact" class="font-bold text-slate-200 hover:underline"
             >I am looking for my first job experience in web development!</a
           >
         </p>

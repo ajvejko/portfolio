@@ -52,18 +52,26 @@ const show = ref(false);
       <div
         class="flex justify-between bg-bgCustom px-6 py-3 shadow-xl shadow-bgCustom"
       >
-        <a href="#home" class="text-xl font-bold text-slate-100 md:text-2xl"
+        <a
+          href="#home"
+          class="text-xl font-bold text-slate-100 hover:underline md:text-2xl"
           >matt</a
         >
         <!-- Navigation options -->
         <div class="flex justify-evenly bg-bgCustom/90 pb-3 text-right">
-          <a href="#about" class="mx-3 mt-1 text-neutral-300 md:text-lg"
+          <a
+            href="#about"
+            class="mx-3 mt-1 text-neutral-300 hover:text-slate-100 md:text-lg"
             >1. about</a
           >
-          <a href="#projects" class="mx-3 mt-1 text-neutral-300 md:text-lg"
+          <a
+            href="#projects"
+            class="mx-3 mt-1 text-neutral-300 hover:text-slate-100 md:text-lg"
             >2. projects</a
           >
-          <a href="#contact" class="mx-3 mt-1 text-neutral-300 md:text-lg"
+          <a
+            href="#contact"
+            class="mx-3 mt-1 text-neutral-300 hover:text-slate-100 md:text-lg"
             >3. contact</a
           >
         </div>
