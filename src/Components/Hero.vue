@@ -2,18 +2,20 @@
 
 <template>
   <section class="h-screen" id="home">
-    <div class="px-6 pt-52 md:m-auto md:w-3/4">
+    <div class="px-6 pt-52 md:m-auto md:w-3/4 xl:w-2/3">
       <!-- Greeting -->
-      <h3 class="font-thin text-slate-100 md:text-lg">Hi, my name is</h3>
+      <h3 class="font-thin text-slate-100 md:text-lg xl:text-xl">
+        Hi, my name is
+      </h3>
       <span
-        class="bg-gradient-to-r from-teal-600 to-green-800 bg-clip-text text-2xl text-transparent md:text-3xl"
+        class="bg-gradient-to-r from-teal-600 to-green-800 bg-clip-text text-2xl text-transparent md:text-3xl xl:text-4xl"
         >Matej Moucka.</span
       >
-      <div class="text-xs font-thin text-neutral-700 md:text-sm">
+      <div class="text-xs font-thin text-neutral-700 md:text-sm xl:text-base">
         (You can call me matt!)
       </div>
       <!-- Short about me -->
-      <div class="mt-10 flex justify-end text-right md:text-lg">
+      <div class="mt-10 flex justify-end text-right md:text-lg xl:text-xl">
         <p class="max-w-sm text-slate-100">
           I'm a front-end developer based in Czechia. I fell in love with making
           web applications and minimalistic designs.
@@ -21,7 +23,7 @@
       </div>
       <!-- Current interest in tech -->
       <div class="text-center">
-        <h1 class="mt-32 font-thin text-slate-100 md:text-lg">
+        <h1 class="mt-32 font-thin text-slate-100 md:text-lg xl:text-xl">
           my current interest in tech:
         </h1>
         <div class="mt-5 flex justify-evenly">
