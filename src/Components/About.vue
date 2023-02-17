@@ -2,15 +2,18 @@
 
 <template>
   <section class="relative h-screen px-6 pt-16" id="about">
-    <div class="flex flex-col md:m-auto md:w-3/4">
-      <h1 class="text-center text-xl font-semibold text-slate-100 md:text-2xl">
-        <span class="text-base font-normal md:text-lg">1.</span> about
+    <div class="flex flex-col md:m-auto md:w-3/4 xl:w-2/3">
+      <h1
+        class="text-center text-xl font-semibold text-slate-100 md:text-2xl xl:text-3xl"
+      >
+        <span class="text-base font-normal md:text-lg xl:text-xl">1.</span>
+        about
       </h1>
       <div class="divide-y">
-        <p class="mt-10 text-sm text-stone-300 md:text-base">
+        <p class="mt-10 text-sm text-stone-300 md:text-base xl:text-lg">
           Hello, my name is
           <span
-            class="bg-gradient-to-r from-teal-600 to-green-800 bg-clip-text text-base font-bold text-transparent md:text-lg"
+            class="bg-gradient-to-r from-teal-600 to-green-800 bg-clip-text text-base font-bold text-transparent md:text-lg xl:text-lg"
             >Matej</span
           >. I enjoy creating things on the web. My love for web development
           started in late 2022.<br />
@@ -30,22 +33,28 @@
         </p>
 
         <div class="mt-24 mb-3 pt-3">
-          <h2 class="text-sm font-thin text-slate-100 md:text-base">
+          <h2 class="text-sm font-thin text-slate-100 md:text-base xl:text-lg">
             What's next?
           </h2>
           <ol class="mt-2">
-            <li class="text-slate-100 md:text-lg">
-              <span class="mr-2 text-sm font-thin md:text-base">1.</span
+            <li class="text-slate-100 md:text-lg xl:text-xl">
+              <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
+                >1.</span
               >Typescript
             </li>
-            <li class="text-slate-100 md:text-lg">
-              <span class="mr-2 text-sm font-thin md:text-base">2.</span>Working
-              with APIs
+            <li class="text-slate-100 md:text-lg xl:text-xl">
+              <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
+                >2.</span
+              >Working with APIs
             </li>
-            <li class="text-slate-100 md:text-lg">
-              <span class="mr-2 text-sm font-thin md:text-base">3.</span>NuxtJS
+            <li class="text-slate-100 md:text-lg xl:text-xl">
+              <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
+                >3.</span
+              >NuxtJS
             </li>
-            <li class="mr-2 text-sm font-thin text-slate-100 md:text-base">
+            <li
+              class="mr-2 text-sm font-thin text-slate-100 md:text-base xl:text-xl"
+            >
               and more..
             </li>
           </ol>
@@ -54,7 +63,9 @@
       </div>
       <div class="flex justify-center">
         <div class="absolute bottom-0">
-          <div class="mb-3 text-sm font-thin text-stone-300 md:text-base">
+          <div
+            class="mb-3 text-sm font-thin text-stone-300 md:text-base xl:text-lg"
+          >
             checkout my projects!
           </div>
           <svg

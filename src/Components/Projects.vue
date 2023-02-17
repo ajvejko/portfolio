@@ -1,25 +1,27 @@
 <script setup></script>
 <template>
   <section class="relative h-screen px-3 pt-16" id="projects">
-    <div class="md:m-auto md:w-3/4">
+    <div class="md:m-auto md:w-3/4 xl:w-2/3">
       <h1 class="text-center text-xl font-semibold text-slate-100 md:text-2xl">
         <span class="text-base font-normal md:text-lg">2.</span> projects
       </h1>
       <!-- Better Search Project -->
-      <div class="mt-16 divide-y">
+      <div class="mt-16 divide-y xl:mx-auto xl:w-3/4">
         <div class="relative p-3">
           <div
-            class="absolute top-0 left-0 h-6 w-6 rounded-br-full bg-purple-500/30 blur md:h-8 md:w-8"
+            class="absolute top-0 left-0 h-6 w-6 rounded-br-full bg-purple-500/30 blur md:h-8 md:w-8 xl:h-10 xl:w-10"
           ></div>
           <div
-            class="absolute bottom-0 right-0 h-6 w-6 rounded-tl-full bg-pink-400/30 blur md:h-8 md:w-8"
+            class="absolute bottom-0 right-0 h-6 w-6 rounded-tl-full bg-pink-400/30 blur md:h-8 md:w-8 xl:h-10 xl:w-10"
           ></div>
           <h2
-            class="bg-gradient-to-r from-purple-500 to-pink-400 bg-clip-text text-xl font-bold text-transparent md:text-2xl"
+            class="bg-gradient-to-r from-purple-500 to-pink-400 bg-clip-text text-xl font-bold text-transparent md:text-2xl xl:text-3xl"
           >
             Better Search
           </h2>
-          <p class="mt-3 text-center text-sm text-stone-300 md:text-base">
+          <p
+            class="mt-3 text-center text-sm text-stone-300 md:text-base xl:text-lg"
+          >
             Better search is a site that allows you to make shortcuts to make
             your searching experience better.<br />
             <br />
@@ -33,12 +35,12 @@
         <div class="flex justify-between py-2">
           <a
             href="https://www.bettersrch.com/"
-            class="text-sm font-thin italic text-slate-100 hover:underline md:text-base"
+            class="text-sm font-thin italic text-slate-100 hover:underline md:text-base xl:text-lg"
             >check it out</a
           >
           <div>
             <a href="https://github.com/ajvejko/bettersearch-vue" alt="github"
-              ><img class="w-6 md:w-8" src="../assets/github.svg"
+              ><img class="w-6 md:w-8 xl:w-10" src="../assets/github.svg"
             /></a>
           </div>
         </div>
