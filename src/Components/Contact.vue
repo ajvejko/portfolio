@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-  <section class="relative h-screen px-3 pt-16" id="contact">
+  <section class="relative h-screen px-3 pt-24" id="contact">
     <div class="md:m-auto md:w-3/4 xl:w-2/3 2xl:w-1/2">
       <h1
         class="text-center text-xl font-semibold text-slate-100 md:text-2xl xl:text-3xl"
