@@ -15,8 +15,8 @@
       <!-- Short about me -->
       <div class="mt-10 flex justify-end text-right">
         <p class="max-w-sm text-slate-100">
-          I'm a front-end developer based in Czechia. I fell in love making web
-          applications and minimalistic designs.
+          I'm a front-end developer based in Czechia. I fell in love with making
+          web applications and minimalistic designs.
         </p>
       </div>
       <!-- Current interest in tech -->
