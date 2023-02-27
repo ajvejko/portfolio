@@ -4,7 +4,7 @@
   <section class="relative h-screen px-6 pt-16" id="about">
     <div class="flex flex-col md:m-auto md:w-3/4 xl:w-2/3 2xl:w-1/2">
       <h1
-        class="text-center text-xl font-semibold text-slate-100 md:text-2xl xl:text-3xl"
+        class="text-center text-xl font-semibold text-textMainCustom md:text-2xl xl:text-3xl"
       >
         <span class="text-base font-normal md:text-lg xl:text-xl">1.</span>
         about
@@ -33,27 +33,29 @@
         </p>
 
         <div class="mt-24 mb-3 pt-3">
-          <h2 class="text-sm font-thin text-slate-100 md:text-base xl:text-lg">
+          <h2
+            class="text-sm font-thin text-textMainCustom md:text-base xl:text-lg"
+          >
             What's next?
           </h2>
           <ol class="mt-2">
-            <li class="text-slate-100 md:text-lg xl:text-xl">
+            <li class="text-textMainCustom md:text-lg xl:text-xl">
               <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
                 >1.</span
               >Typescript
             </li>
-            <li class="text-slate-100 md:text-lg xl:text-xl">
+            <li class="text-textMainCustom md:text-lg xl:text-xl">
               <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
                 >2.</span
               >Working with APIs
             </li>
-            <li class="text-slate-100 md:text-lg xl:text-xl">
+            <li class="text-textMainCustom md:text-lg xl:text-xl">
               <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
                 >3.</span
               >NuxtJS
             </li>
             <li
-              class="mr-2 text-sm font-thin text-slate-100 md:text-base xl:text-xl"
+              class="mr-2 text-sm font-thin text-textMainCustom md:text-base xl:text-xl"
             >
               and more..
             </li>

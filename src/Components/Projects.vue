@@ -2,7 +2,9 @@
 <template>
   <section class="relative h-screen px-3 pt-16" id="projects">
     <div class="md:m-auto md:w-3/4 xl:w-2/3">
-      <h1 class="text-center text-xl font-semibold text-slate-100 md:text-2xl">
+      <h1
+        class="text-center text-xl font-semibold text-textMainCustom md:text-2xl"
+      >
         <span class="text-base font-normal md:text-lg">2.</span> projects
       </h1>
       <!-- Better Search Project -->
@@ -35,7 +37,7 @@
         <div class="flex justify-between py-2">
           <a
             href="https://www.bettersrch.com/"
-            class="text-sm font-thin italic text-slate-100 hover:underline md:text-base xl:text-lg"
+            class="text-sm font-thin italic text-textMainCustom hover:underline md:text-base xl:text-lg"
             >check it out</a
           >
           <div>
@@ -46,7 +48,7 @@
         </div>
       </div>
 
-      <div class="mt-32 text-center font-bold text-slate-100 md:text-lg">
+      <div class="mt-32 text-center font-bold text-textMainCustom md:text-lg">
         More to come!
       </div>
       <div class="flex justify-center">

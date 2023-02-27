@@ -7,7 +7,8 @@ module.exports = {
         roboto: "'Roboto Mono', monospace",
       },
       colors: {
-        bgCustom: "#141314",
+        bgCustom: "#0F1011",
+        textMainCustom: "#c9d8e2",
       },
     },
   },

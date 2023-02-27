@@ -4,7 +4,7 @@
   <section class="h-screen" id="home">
     <div class="px-6 pt-52 md:m-auto md:w-3/4 xl:w-2/3 2xl:w-1/2">
       <!-- Greeting -->
-      <h3 class="font-thin text-slate-100 md:text-lg xl:text-xl">
+      <h3 class="font-thin text-textMainCustom md:text-lg xl:text-xl">
         Hi, my name is
       </h3>
       <span
@@ -16,14 +16,14 @@
       </div>
       <!-- Short about me -->
       <div class="mt-10 flex justify-end text-right md:text-lg xl:text-xl">
-        <p class="max-w-sm text-slate-100">
+        <p class="max-w-sm text-textMainCustom">
           I'm a front-end developer based in Czechia. I fell in love with making
           web applications and minimalistic designs.
         </p>
       </div>
       <!-- Current interest in tech -->
       <div class="text-center">
-        <h1 class="mt-32 font-thin text-slate-100 md:text-lg xl:text-xl">
+        <h1 class="mt-32 font-thin text-textMainCustom md:text-lg xl:text-xl">
           my current interest in tech:
         </h1>
         <div class="mt-5 flex justify-evenly">

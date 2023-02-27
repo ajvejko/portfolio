@@ -3,26 +3,26 @@
   <section class="relative h-screen px-3 pt-24" id="contact">
     <div class="md:m-auto md:w-3/4 xl:w-2/3 2xl:w-1/2">
       <h1
-        class="text-center text-xl font-semibold text-slate-100 md:text-2xl xl:text-3xl"
+        class="text-center text-xl font-semibold text-textMainCustom md:text-2xl xl:text-3xl"
       >
         <span class="text-base font-normal md:text-lg xl:text-xl">3.</span>
         contact
       </h1>
-      <h2 class="mt-44 text-center text-slate-100 md:text-lg xl:text-xl">
+      <h2 class="mt-44 text-center text-textMainCustom md:text-lg xl:text-xl">
         Want to get in touch?
       </h2>
       <p
         class="mt-4 text-center text-sm text-stone-300 md:text-base xl:text-lg"
       >
         I am looking for my
-        <span class="font-semibold text-slate-100">first job</span> in web
+        <span class="font-semibold text-textMainCustom">first job</span> in web
         development or any chat on web dev in general.<br />
         <br />
         Are you interested have any helpful tips or found any issues on my
         sites?
       </p>
       <h2
-        class="mt-6 text-center text-lg text-slate-100 md:text-xl xl:mt-9 xl:text-2xl"
+        class="mt-6 text-center text-lg text-textMainCustom md:text-xl xl:mt-9 xl:text-2xl"
       >
         you can reach out to me on:
       </h2>
