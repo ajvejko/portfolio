@@ -42,17 +42,17 @@
             <li class="text-textMainCustom md:text-lg xl:text-xl">
               <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
                 >1.</span
-              >Typescript
-            </li>
-            <li class="text-textMainCustom md:text-lg xl:text-xl">
-              <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
-                >2.</span
               >Working with APIs
             </li>
             <li class="text-textMainCustom md:text-lg xl:text-xl">
               <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
-                >3.</span
+                >2.</span
               >NuxtJS
+            </li>
+            <li class="text-textMainCustom md:text-lg xl:text-xl">
+              <span class="mr-2 text-sm font-thin md:text-base xl:text-lg"
+                >3.</span
+              >Figma
             </li>
             <li
               class="mr-2 text-sm font-thin text-textMainCustom md:text-base xl:text-xl"
