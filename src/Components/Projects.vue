@@ -27,11 +27,12 @@
             Better search is a site that allows you to make shortcuts to make
             your searching experience better.<br />
             <br />
-            I first built this in
-            <span class="text-yellow-200">Javascript</span> then tried it in
-            <span class="text-sky-500">React</span> and ended up using
+            Tools I used:<br />
             <span class="text-emerald-400">Vue</span> +
-            <span class="text-blue-500">Tailwind</span>.
+            <span class="text-blue-800">Typescript</span> +
+            <span class="text-blue-500">Tailwind</span> +
+            <span class="text-pink-400">Vite</span>
+            .
           </p>
         </div>
         <div class="flex justify-between py-2">
@@ -41,7 +42,7 @@
             >check it out</a
           >
           <div>
-            <a href="https://github.com/ajvejko/bettersearch-vue" alt="github"
+            <a href="https://github.com/ajvejko/Bettersearch" alt="github"
               ><img class="w-6 md:w-8 xl:w-10" src="../assets/github.svg"
             /></a>
           </div>
