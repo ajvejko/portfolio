@@ -63,17 +63,17 @@ const show = ref(false);
         <div class="flex justify-evenly bg-bgCustom/90 pb-3 text-right">
           <a
             href="#about"
-            class="mx-3 mt-1 text-neutral-300 hover:text-textMainCustom md:text-lg"
+            class="mx-3 mt-1 text-neutral-300 hover:text-textMainCustom hover:underline md:text-lg"
             >1. about</a
           >
           <a
             href="#projects"
-            class="mx-3 mt-1 text-neutral-300 hover:text-textMainCustom md:text-lg"
+            class="mx-3 mt-1 text-neutral-300 hover:text-textMainCustom hover:underline md:text-lg"
             >2. projects</a
           >
           <a
             href="#contact"
-            class="mx-3 mt-1 text-neutral-300 hover:text-textMainCustom md:text-lg"
+            class="mx-3 mt-1 text-neutral-300 hover:text-textMainCustom hover:underline md:text-lg"
             >3. contact</a
           >
         </div>
