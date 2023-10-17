@@ -13,3 +13,9 @@ import Contact from "./Components/Contact.vue";
   <Projects />
   <Contact />
 </template>
+
+<style>
+.transition_animation {
+  transition: all ease 300ms;
+}
+</style>
