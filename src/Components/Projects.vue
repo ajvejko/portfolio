@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-  <section class="relative h-screen px-3 pt-16" id="projects">
+  <section class="relative min-h-screen px-3 pt-16" id="projects">
     <div class="md:m-auto md:w-3/4 xl:w-2/3">
       <h1
         class="text-center text-xl font-semibold text-textMainCustom md:text-2xl"
@@ -94,7 +94,7 @@
       </div>
 
       <div
-        class="mt-32 text-center font-bold text-textMainCustom md:mt-16 md:text-lg lg:mt-8"
+        class="mb-32 text-center font-bold text-textMainCustom md:mt-16 md:text-lg lg:mt-8"
       >
         More to come!
       </div>

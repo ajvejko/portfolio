@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <section class="relative h-screen px-6 pt-16" id="about">
+  <section class="relative min-h-screen px-6 pt-16" id="about">
     <div class="flex flex-col md:m-auto md:w-3/4 xl:w-2/3 2xl:w-1/2">
       <h1
         class="text-center text-xl font-semibold text-textMainCustom md:text-2xl xl:text-3xl"

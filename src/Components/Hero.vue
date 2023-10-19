@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <section class="h-screen" id="home">
+  <section class="min-h-screen" id="home">
     <div class="px-6 pt-52 md:m-auto md:w-3/4 xl:w-2/3 2xl:w-1/2">
       <!-- Greeting -->
       <h3 class="font-thin text-textMainCustom md:text-lg xl:text-xl">
