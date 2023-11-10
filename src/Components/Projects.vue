@@ -123,12 +123,12 @@
         </div>
         <div class="flex justify-between py-2">
           <a
-            href="https://spin-the-wheel-swart.vercel.app/"
+            href="https://www.locate-ip.dev/"
             class="text-sm font-thin italic text-textMainCustom hover:underline md:text-base xl:text-lg"
             >check it out</a
           >
           <div>
-            <a href="https://github.com/ajvejko/WheelOfFortune"
+            <a href="https://github.com/ajvejko/locate-ip"
               ><img
                 class="transition_animation w-6 hover:scale-110 md:w-8 xl:w-10"
                 alt="github"
