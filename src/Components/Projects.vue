@@ -34,7 +34,6 @@
             <span class="text-blue-800">Typescript</span> +
             <span class="text-blue-500">Tailwind</span> +
             <span class="text-pink-400">Vite</span>
-            .
           </p>
         </div>
         <div class="flex justify-between py-2">
@@ -75,7 +74,6 @@
             <span class="text-blue-800">Typescript</span> +
             <span class="text-blue-500">Tailwind</span> +
             <span class="text-pink-400">Vite</span>
-            .
           </p>
         </div>
         <div class="flex justify-between py-2">
@@ -121,7 +119,6 @@
             <span class="text-blue-800">Typescript</span> +
             <span class="text-blue-500">Tailwind</span> +
             <span class="text-pink-400">Vite</span>
-            .
           </p>
         </div>
         <div class="flex justify-between py-2">
