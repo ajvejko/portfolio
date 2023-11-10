@@ -97,7 +97,7 @@
       <div class="mt-16 divide-y xl:mx-auto xl:w-3/4">
         <div class="relative p-3">
           <div
-            class="animation_spinning absolute top-1/2 left-1/2 -z-10 -mt-16 -ml-16 h-32 w-32 rounded-full bg-gradient-to-b from-red-500 via-yellow-300 to-blue-500 blur-3xl filter"
+            class="absolute top-1/2 left-1/2 -z-10 -mt-8 -ml-28 h-16 w-56 rounded-full bg-gradient-to-b from-rose-500 via-red-500 to-orange-500 blur-3xl filter"
           ></div>
           <h2 class="text-xl font-bold md:text-2xl xl:text-3xl">
             <span
