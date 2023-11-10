@@ -44,9 +44,10 @@
             >check it out</a
           >
           <div>
-            <a href="https://github.com/ajvejko/Bettersearch" alt="github"
+            <a href="https://github.com/ajvejko/Bettersearch"
               ><img
                 class="transition_animation w-6 hover:scale-110 md:w-8 xl:w-10"
+                alt="github"
                 src="../assets/github.svg"
             /></a>
           </div>
@@ -84,9 +85,56 @@
             >check it out</a
           >
           <div>
-            <a href="https://github.com/ajvejko/WheelOfFortune" alt="github"
+            <a href="https://github.com/ajvejko/WheelOfFortune"
               ><img
                 class="transition_animation w-6 hover:scale-110 md:w-8 xl:w-10"
+                alt="github"
+                src="../assets/github.svg"
+            /></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- LocateIP! Project -->
+      <div class="mt-16 divide-y xl:mx-auto xl:w-3/4">
+        <div class="relative p-3">
+          <div
+            class="animation_spinning absolute top-1/2 left-1/2 -z-10 -mt-16 -ml-16 h-32 w-32 rounded-full bg-gradient-to-b from-red-500 via-yellow-300 to-blue-500 blur-3xl filter"
+          ></div>
+          <h2 class="text-xl font-bold md:text-2xl xl:text-3xl">
+            <span
+              class="bg-gradient-to-r from-rose-500 via-red-500 to-orange-500 bg-clip-text text-transparent"
+              >LocateIP!</span
+            >
+          </h2>
+          <p
+            class="mt-3 text-center text-sm text-stone-300 md:text-base xl:text-lg"
+          >
+            LocateIP! is a project where you can enter an IP and get the
+            geolocation of chosen ip. If there is none given the default is to
+            clients/users ip. Built to try out fetching data and Nuxt and in the
+            end also used Pinia.<br />
+            <br />
+            Tools I used:<br />
+            <span class="text-emerald-600">Nuxt</span> +
+            <span class="text-yellow-500">Pinia</span> +
+            <span class="text-blue-800">Typescript</span> +
+            <span class="text-blue-500">Tailwind</span> +
+            <span class="text-pink-400">Vite</span>
+            .
+          </p>
+        </div>
+        <div class="flex justify-between py-2">
+          <a
+            href="https://spin-the-wheel-swart.vercel.app/"
+            class="text-sm font-thin italic text-textMainCustom hover:underline md:text-base xl:text-lg"
+            >check it out</a
+          >
+          <div>
+            <a href="https://github.com/ajvejko/WheelOfFortune"
+              ><img
+                class="transition_animation w-6 hover:scale-110 md:w-8 xl:w-10"
+                alt="github"
                 src="../assets/github.svg"
             /></a>
           </div>
